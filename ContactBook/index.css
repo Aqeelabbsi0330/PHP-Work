@@ -1,0 +1,40 @@
+
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 40px;
+  }
+
+  h2 {
+    text-align: center;
+    color: #333;
+  }
+
+  table {
+    width: 60%;
+    margin: auto;
+    border-collapse: collapse;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+
+  th, td {
+    padding: 12px 20px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+
+  th {
+    background-color: #4CAF50;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+
+  tr:hover {
+    background-color: #f1f1f1;
+  }
+
+  td {
+    color: #333;
+  }
